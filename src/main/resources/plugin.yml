@@ -1,0 +1,4 @@
+name: InventorySnapshots
+version: '${version}'
+main: me.dthb.is.InventorySnapshots
+api-version: 1.18
